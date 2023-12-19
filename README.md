@@ -1,2 +1,2 @@
 # Small_Projects
-Just a bunch of small code and programs 
+A bundle of small programs with varying topics and languages 
